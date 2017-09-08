@@ -3,7 +3,7 @@
 
 
 
-## A pair of functions that are used to create a matrix, caches it, and returns the inverse.
+## A pair of functions that are used to create a matrix, caches it, and returns the inverse values.
 ## Makes sense caching the value, and looked up when needed, rather than computing it again and again.
 
 ## The function makeCacheMatrix() creates a matrix
